@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "664068823614",
+    "project_id": "crimenewsbd-12767",
+    "storage_bucket": "crimenewsbd-12767.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664068823614:android:34b8aafde83f53d25e8f6f",
+        "android_client_info": {
+          "package_name": "com.abdrobd.bdcrimenews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664068823614-0qsg7spu3pbegcjlseml5srqhc8r8kup.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuzJD10qvLKyLNCDIBKi7aqAMjq-IVEYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664068823614-0qsg7spu3pbegcjlseml5srqhc8r8kup.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
